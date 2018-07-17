@@ -1,2 +1,2 @@
-# Web_Sraping-Mission-to-Mars
+# Web_Scraping-Mission-to-Mars
 13 - Web Scraping Homework
